@@ -61,5 +61,9 @@
       "name": "蔚蓝档案_小春",
       "url": "https://files.catbox.moe/zhvsip.png"
     },
+    {
+      "name": "蔚蓝档案_Ako",
+      "url": "https://files.catbox.moe/7yz4wq.png"
+    },
   ]
 }
