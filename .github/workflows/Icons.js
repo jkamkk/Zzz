@@ -49,5 +49,17 @@
       "name": "苹果设置",
       "url": "https://files.catbox.moe/f9k0hz.png"
     },
+    {
+      "name": "Apple Miusc",
+      "url": "https://files.catbox.moe/u9ijuz.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://files.catbox.moe/vt9pz9.png"
+    },
+    {
+      "name": "蔚蓝档案_小春",
+      "url": "https://files.catbox.moe/zhvsip.png"
+    },
   ]
 }
